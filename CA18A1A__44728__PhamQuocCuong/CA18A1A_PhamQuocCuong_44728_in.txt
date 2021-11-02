@@ -1,0 +1,6 @@
+5
+MH01|cảm biến       |4|45000
+MH02|Relay          |2|40000
+MH03|contactor      |5|35000
+MH04|bóng đèn       |6|25000
+MH05|cuộn dây       |5|15000

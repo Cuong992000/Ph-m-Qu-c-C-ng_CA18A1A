@@ -1,0 +1,8 @@
+7
+MH01|cảm biến nhiệt |2|55000
+MH02|Relay          |4|50000
+MH03|contactor      |3|45000
+MH04|timer          |4|35000
+MH05|công tắc       |4|25000
+MH04|bóng đèn       |6|20000
+MH05|cuộn dây       |1|15000

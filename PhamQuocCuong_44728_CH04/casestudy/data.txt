@@ -1,0 +1,3 @@
+Lambert 10.5 34
+Osborne 6.25 22
+Giacometti 100.7 5
